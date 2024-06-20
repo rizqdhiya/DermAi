@@ -7,7 +7,16 @@ Project Scope & Deliverables:
 This Project will be focused On Users who have busy schedules  and want to self check up for their skin problem / disease. Which is helping users to get more information and carry out early prevention for the disease. The app will provide some features such as scan skin images to analyze and symptoms recognition, Initial diagnosis to give basic information about the disease and its symptoms, temporary solutions / passive counters to reduce and minimize the pain and spread of skin diseases and news section to gives user more updates and other information such as guidelines, healthy habits for skin health, new technology and techniques that contribute dermatology and skin care, how to recognizing early / basic symptom of the skin disease, etc.
 
 
+CONTRIBUTORS:
 
+
+(ML) M200D4KY1473 – Ahmad Novan Alfian – Diponegoro University - Active
+(ML) M200D4KX2022 – Nadhira Hasya Diandra  – Diponegoro University - Active
+(ML) M200D4KX2341 – Layla Alvisa Khusna – Diponegoro University - Active
+(CC)  C322D4KX1278 – Sarah Ar Rayyan – Syiah Kuala University - Active
+(CC)  C189D4KY1276 – Gopi Mahendra – Bengkulu University - Active
+(MD) A007D4KY3698 – Rizq Dhiya Ulhaq – Dian Nuswantoro University - Active
+(MD) A007D4KY4101 – Candra Thariq Briantama – Dian Nuswantoro University - Active
 
 
 
