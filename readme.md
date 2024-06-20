@@ -11,11 +11,17 @@ CONTRIBUTORS:
 
 
 (ML) M200D4KY1473 – Ahmad Novan Alfian – Diponegoro University - Active
+<br>
 (ML) M200D4KX2022 – Nadhira Hasya Diandra  – Diponegoro University - Active
+<br>
 (ML) M200D4KX2341 – Layla Alvisa Khusna – Diponegoro University - Active
+<br>
 (CC)  C322D4KX1278 – Sarah Ar Rayyan – Syiah Kuala University - Active
+<br>
 (CC)  C189D4KY1276 – Gopi Mahendra – Bengkulu University - Active
+<br>
 (MD) A007D4KY3698 – Rizq Dhiya Ulhaq – Dian Nuswantoro University - Active
+<br>
 (MD) A007D4KY4101 – Candra Thariq Briantama – Dian Nuswantoro University - Active
 
 
